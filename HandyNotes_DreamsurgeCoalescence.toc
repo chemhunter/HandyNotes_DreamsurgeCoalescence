@@ -1,0 +1,16 @@
+## Interface: 110002
+## Title: HandyNotes_DreamsurgeCoalescence
+## Notes: Shows location of Dreamsurge Coalescences in Dragon Isles
+## Author: Chemhunter
+## Version: 1.0
+## DefaultState: enabled
+## X-Category: Achievements
+## IconTexture: 132858
+## SavedVariables: HandyNotes_DreamsurgeCoalescenceDB
+## RequiredDeps: HandyNotes
+
+locales.lua
+nodes.lua
+handler.lua
+config.lua
+
